@@ -1,7 +1,9 @@
-import { createClient } from "contentful";
+// import { createClient } from "contentful";
 import type { HomeImage } from "src/models/HomeImage";
+import contentful from 'contentful'
+// const contentful = require("contentful");
 
-const client = createClient({
+const client = contentful.createClient({
   space: "q8tvjpticwc2",
   environment: "master", // defaults to 'master' if not set
   accessToken: "_8sgaRvNS3MCgdZkkQ7Ok6YQvJtImL5YUa_m-suZOxc",
