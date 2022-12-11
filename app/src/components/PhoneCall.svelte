@@ -1,5 +1,5 @@
 <a
-  href="tel:+905322182483"
+  href="tel:+905343259444"
   id="callnowbutton"
   class="flex px-2 py-1 justify-center items-center decoration-4 font-medium w-full sm:text-xs"
 >

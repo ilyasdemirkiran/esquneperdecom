@@ -15,6 +15,5 @@
 
 <HomeEsqune />
 <HomeImages images={data?.images} />
-<!-- <HomeImages images="{data.images}" /> -->
 <HomeServices services={data.services} />
 <HomeFooter />
