@@ -7,18 +7,6 @@
   import "@splidejs/svelte-splide/css";
 
   export let images: HomeImage[] = [];
-  // let shownImageIndex: number = 0;
-  // let galleryInterval: NodeJS.Timer = setInterval(() => {
-  //   if (_.isEmpty(images)) {
-  //     return;
-  //   }
-
-  //   shownImageIndex = (shownImageIndex + 1) % images.length;
-  // }, 2000);
-
-  // onDestroy(() => {
-  //   clearInterval(galleryInterval);
-  // });
 </script>
 
 <!-- <HomeImageView image={images[shownImageIndex]} /> -->
@@ -27,12 +15,8 @@
     options={{
       rewind: true,
       autoplay: true,
-      arrows: false,
       gap: "10rem",
-      speed: 2000,
-      // height: "h-[100%]",
-      // padding: { right: 10, left: 10 },
-      // perPage: 2,
+      speed: 400,
     }}
   >
     {#each images as image (image.url)}
