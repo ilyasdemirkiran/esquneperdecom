@@ -35,6 +35,8 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@splidejs/splide": "^4.1.4",
+		"@splidejs/svelte-splide": "^0.2.9",
 		"contentful": "^9.2.14",
 		"lodash": "^4.17.21"
 	}

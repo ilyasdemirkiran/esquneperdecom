@@ -5,6 +5,7 @@
   import HomeImages from "../components/home/gallery/HomeImages.svelte";
   import HomeFooter from "../components/home/footer/HomeFooter.svelte";
   import HomeServices from "../components/home/services/HomeServices.svelte";
+  import HomeContact from "../components/home/contact/HomeContact.svelte";
 
   export let data: { images: HomeImage[]; services: HomeService[] };
 </script>
@@ -16,4 +17,5 @@
 <HomeEsqune />
 <HomeImages images={data?.images} />
 <HomeServices services={data.services} />
+<HomeContact />
 <HomeFooter />

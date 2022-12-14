@@ -10,7 +10,7 @@
     <hr class="my-1 mb-2 h-px bg-amber-400 border-0 " />
   </div>
   <div
-    class="flex flex-col bg-neutral-800 py-2 space-y-2 sm:flex-row sm:justify-evenly sm:space-y-0"
+    class="flex flex-col bg-neutral-800 p-2 space-y-2 sm:flex-row sm:justify-evenly sm:space-y-0 sm:space-x-2"
   >
     {#each services as service}
       <Service title={service.title} url={service.url} />
