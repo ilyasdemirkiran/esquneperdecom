@@ -1,3 +1,7 @@
+<script>
+  import PhoneCall from "../../../components/PhoneCall.svelte";
+
+</script>
 <div
   class="h-96 w-full py-2 bg-neutral-900 text-slate-100 mt-1 flex flex-col space-y-2"
 >
@@ -12,7 +16,8 @@
       class="flex-1 rounded-md bg-neutral-900 flex flex-col space-y-2 justify-center items-center px-1 py-2 text-xs"
     >
       <span class="text-amber-400 text-lg">Fatih Kurak</span>
-      <span class="text-lg">+90 534 325 9 444</span>
+      <PhoneCall />
+      <!-- <span class="text-lg">+90 534 325 9 444</span> -->
       <span>
         Başakşehir Mah. Süleyman Çelebi Cad Arterium 5.kısım, Istanbul, Turkey
       </span>

@@ -6,7 +6,7 @@
 
 <div class="bg-neutral-900 my-1 text-slate-100 sm:flex-1 py-2">
   <div class="pl-2 pt-2">
-    <h1 class="sm:text-3xl pl-4">Hizmetlerimiz</h1>
+    <h1 class="sm:text-xl pl-4">Hizmetlerimiz</h1>
     <hr class="my-1 mb-2 h-px bg-amber-400 border-0 " />
   </div>
   <div
