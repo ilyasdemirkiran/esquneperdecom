@@ -3,7 +3,7 @@
   export let url: string = "";
 </script>
 
-<div class="flex flex-col hover:shadow-sm hover:shadow-amber-300 transition-all duration-700 hover:text-xl">
+<div class="flex flex-col">
   <h1
     class="bg-slate-100 text-neutral-700 text-center py-1 shadow-lg rounded-t-sm"
   >

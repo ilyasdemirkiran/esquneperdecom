@@ -14,7 +14,6 @@
   <title>Esqune Perde</title>
 </svelte:head>
 
-<!-- <HomeEsqune /> -->
 <HomeImages images={data?.images} />
 <HomeServices services={data.services} />
 <HomeContact />
