@@ -28,7 +28,6 @@
         />
         +90 534 325 9 444
       </a>
-      <!-- <span class="text-lg">+90 534 325 9 444</span> -->
       <span class="w-full">
         Başakşehir Mah. Süleyman Çelebi Cad Arterium 5.kısım, Istanbul, Turkey
       </span>

@@ -8,7 +8,18 @@
   <div class="flex-grow flex items-center">
     <a href="/" class="hover:border-b-amber-100">ESQUNE Design</a>
   </div>
-  <div>
+  <div class="flex justify-center items-center space-x-1">
+    <a
+      href="https://www.instagram.com/esqune_perde/"
+      target="_blank"
+      rel="noreferrer"
+    >
+      <img
+        src="./ig.svg"
+        alt="Esqune Instagram Logo"
+        class="w-5 h-5 cursor-pointer "
+      />
+    </a>
     <PhoneCall />
   </div>
 </header>

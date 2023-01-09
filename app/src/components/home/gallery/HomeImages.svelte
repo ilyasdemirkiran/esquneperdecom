@@ -2,7 +2,7 @@
   import type { HomeImage } from "../../../models/HomeImage";
   import HomeImageView from "./HomeImageView.svelte";
   import _ from "lodash";
-  import { Splide, SplideSlide, SplideTrack } from "@splidejs/svelte-splide";
+  import { Splide, SplideSlide } from "@splidejs/svelte-splide";
   import "@splidejs/svelte-splide/css/core";
   import "@splidejs/svelte-splide/css";
 
