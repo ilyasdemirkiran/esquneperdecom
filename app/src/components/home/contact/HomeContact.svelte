@@ -34,7 +34,7 @@
     </div>
     <div class="flex-1  bg-neutral-900">
       <iframe
-        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1525.1086341837008!2d28.786985762016077!3d41.10205102922228!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14caaf372ab5e823%3A0x8a4dd351a8523f26!2sEspressolab%20Ba%C5%9Fak%C5%9Fehir!5e0!3m2!1str!2str!4v1671460315227!5m2!1str!2str"
+        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d298.27991006066804!2d28.787669138063535!3d41.10235043099747!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14caaff01615a245%3A0x708a5e66800519a4!2zRVNRVU5FIFBFUkRFICYgRFVWQVIgS0HEnklESSBCQcWeQUvFnkVIxLBS!5e0!3m2!1str!2str!4v1674147297822!5m2!1str!2str"
         allowfullscreen={true}
         referrerpolicy="no-referrer-when-downgrade"
         title="Esqune Design Location"
