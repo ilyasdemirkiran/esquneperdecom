@@ -3,3 +3,4 @@ export interface HomeImage {
   description: string;
   url: string;
 }
+
